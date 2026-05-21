@@ -1,5 +1,9 @@
 # 💫 About Me
-Welcome to my GitHub profile! I’m a software engineer who loves developing innovative projects.<br><br>🚀 I’m always eager to learn new things so I can grow as a professional—both on my own and with the help of other developers who can foster critical thinking and the open-source movement.<br>
+Welcome to my GitHub profile!
+
+🎓 I'm a <strong>software engineer</strong> passionate about backend development and software architecture. I enjoy building APIs, designing scalable systems, and constantly learning new technologies.
+
+🚀 I believe programming is a continuous learning process, and I’m always looking for ways to improve through personal projects, collaboration, and open-source development.
 
 
 # 💻 Tech Stack
